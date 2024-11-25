@@ -17,7 +17,7 @@ export const AwesomeButton = ({
       {...props}
     >
       {label}
-      <small className='version'>v1.0.0</small>
+      <small className='version'>v1.1.0</small>
     </button>
   );
 };
