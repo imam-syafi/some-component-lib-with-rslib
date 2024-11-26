@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  cursor-effects:
+    specifier: ^1.0.16
+    version: 1.0.16
   react-dom:
     specifier: '>=16.9.0'
     version: 18.3.1(react@18.3.1)
@@ -223,6 +226,10 @@ packages:
     resolution: {integrity: sha512-raM0ew0/jJUqkJ0E6e8UDtl+y/7ktFivgWvqw8dNSQeNWoSDLvQ1H/RN3aPXB9tBd4/FhyR4RDPGhsNIMsAn7g==}
     requiresBuild: true
     dev: true
+
+  /cursor-effects@1.0.16:
+    resolution: {integrity: sha512-Z6ROZASdskDoDwLQTNdwioW6sT8an3Sevw2Z/gMadV+irUMr2L4mrEOBVkSRjzLC+VOnvkplyNDqb9tiHLBtaw==}
+    dev: false
 
   /error-stack-parser@2.1.4:
     resolution: {integrity: sha512-Sk5V6wVazPhq5MhpO+AUxJn5x7XSXGl1R93Vn7i+zS15KDVxQijejNCrz8340/2bgLBjR9GtEG8ZVKONDjcqGQ==}
